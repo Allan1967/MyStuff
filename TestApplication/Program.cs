@@ -6,6 +6,7 @@
         {
             var i = 0;
             int d = i;
+            System.Console.WriteLine("Hi!");
         }
     }
 }
